@@ -10,6 +10,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "git@github.com:jaro-m/boilerplate-npm.git"
 	}
 }
